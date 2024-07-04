@@ -1,5 +1,5 @@
-sklearn
+scikit-learn
 streamlit
 pandas
 joblib
-imblearn
+imbalanced-learn
